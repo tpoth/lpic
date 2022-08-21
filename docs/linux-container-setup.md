@@ -270,3 +270,7 @@ sudo lxc-stop -n newpc
 Das soll es zur Einrichtung von LXC gewesen sein.
 
 Weiterführende Informationen findet man wie üblich unter Linux in den `man`-Pages und im Internet auf den Projektseiten des LXC Projektes unter https://linuxcontainers.org/lxc/introduction/
+
+## Lizenzierung
+
+Sollte eine andere Verwertung als die, der eigenen Weiterbildung angestrebt werden, so ist dies mit mir (Thomas Poth <thomas.poth@gmail.com>), dem Urheber vor dem Beginn der Verwertung zu klären.
