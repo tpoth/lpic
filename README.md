@@ -1,4 +1,4 @@
-# LPIC - Wir lernen Linux zu administrieren
+# Meine Vorbereitung auf die LPIC-1 Zertifizierung
 
 LPIC steht für "Linux Professional Institute Certificate".
 
