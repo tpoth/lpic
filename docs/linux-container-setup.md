@@ -1,7 +1,7 @@
 Title:    Linux Container (LXC) Setup  
 Date:     2022-08-21  
 Author:   Thomas Poth  
-Keywords: LPIC, LXC, Linux, Container, Setup, Templates
+Keywords: LPIC, LXC, Linux, Container, Setup, Templates, TL;DR;
 
 ---
 
