@@ -2,7 +2,7 @@
 
 LPIC steht für "Linux Professional Institute Certificate".
 
-In diesem Repo halte ich alle möglichen Code Schnipsel fest, die für die Arbeit mit Linux hilfreich sein könnten. Entstanden sind diese Code Schnipsel während meiner LPIC Zertifizierungsvorbereitungen.
+In diesem Repo halte ich alle möglichen Code Schnipsel fest, die für die Arbeit mit Linux hilfreich sein könnten. Entstanden sind diese Code Schnipsel während meiner Vorbereitung auf die LPIC-1 Zertifizierung.
 
 Die Codeschnipsel sind alle im Verzeichnis `docs` im Markdown-Format `.md` abgelegt.
 
